@@ -1,0 +1,15 @@
+{
+    "name": "projects-by-me.de/mercure-playground",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuel Hesselbarth",
+            "email": "jumper85@email.de"
+        }
+    ],
+    "require": {
+        "symfony/mercure": "^0.2.0",
+        "rbdwllr/reallysimplejwt": "^2.1"
+    }
+}
